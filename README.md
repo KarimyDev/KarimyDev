@@ -1,16 +1,21 @@
-## Hi there 👋
+## Oi, eu sou a Karimy 👋
 
-<!--
-**KarimyDev/KarimyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em transição para a área de tecnologia.  
+Tenho formação em Desenvolvimento Web e JavaScript e atualmente estou estudando Python.
 
-Here are some ideas to get you started:
+Gosto de aprender na prática e uso o GitHub para organizar meus estudos e projetos simples, enquanto evoluo na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que estou estudando
+- Python
+- JavaScript
+- HTML e CSS
+- Lógica de programação
+
+### Meus projetos
+Aqui você vai encontrar projetos simples de estudo, como:
+- pequenos sites em HTML e CSS
+- exercícios em Python
+- atividades da faculdade
+
+### Vamos nos conectar?
+- LinkedIn: https://www.linkedin.com/in/karimy-python-dev/
